@@ -1,0 +1,40 @@
+.homepage-container{
+    padding: 20px;
+
+    .header-container{
+        text-align: center;
+        font-size: 50px;
+    }
+
+
+    .datachart-container{
+        display: flex;
+        justify-content: space-around;
+        padding: 25px;
+
+    
+        .right-side-container{
+            display: flex;
+            flex-direction: column;
+            div{
+                padding: 10px;
+            }
+        }
+    
+    
+    
+    
+    
+    }
+
+
+    .table{
+        td{
+            padding: 10px;
+        }
+        th{
+            padding: 5px;
+        }
+    }
+}
+
